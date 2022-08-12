@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^2.77.3"
+  }
+}
